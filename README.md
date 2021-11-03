@@ -19,6 +19,8 @@
 <!-- getting started -->
 
 Click this link to get started!
+https://app.netlify.com/sites/cocky-hoover-12b848/overview
+1. once the page loads, please click on a desired date and your results will follow!
 
 <!-- future enhancements -->
 
