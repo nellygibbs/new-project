@@ -1,6 +1,8 @@
 .container {
-    background-color: rgb(236, 234, 234);
-    margin: 1%
+    background-color: rgb(197, 205, 206);
+    margin: 5%;
+    border-radius: 5px;
+    padding: 2%;
 }
 
 #dateOfGame {
@@ -8,7 +10,7 @@
 }
 
 #myTitle {
-    color: black;
+    color: rgb(3, 3, 3);
     text-align: center;
 }
 
@@ -16,7 +18,8 @@
     background-color: #F5F5F5;
     padding: 2%;
     border-radius: 5px;
-    /* text-align: center; */
+    margin: auto;
+    width: 50%;
 }
 
 #btn-search {
@@ -27,11 +30,14 @@
 
 .score-card
 {
-    background-color: black;
+    background-color: rgb(209, 16, 16);
     color: white;
     padding: 5%;
+    text-align: center;
 }
 
 .score-card hr {
     border: solid 2px;
+    border-radius: 5px;
+    color:black;
 }
