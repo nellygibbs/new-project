@@ -42,7 +42,7 @@ $('#btn-search').click(function(){
 })
 
 /* originally had the div inside of my html but when you first load the screen it was
-showing with information from the api so I took it out and put it here so that when
+showing with a random game from the api so I took it out and put it here so that when
 it loops through the array in the api, it'll add the the visitors city name and score
-to the top of the scorecard and then the home team's name, score and city to the bottom
-*/
+to the top of the scorecard and then the home team's name, score and city to the 
+bottom*/

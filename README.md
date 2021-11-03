@@ -11,10 +11,9 @@
 
 <!-- screenshots -->
 
+[Imgur](https://i.imgur.com/ZGfTUn8.png)
 
-[Imgur](https://i.imgur.com/PNL2R4T.png)
-
-[Imgur](https://i.imgur.com/pwTUhsm.png)
+[Imgur](https://i.imgur.com/TnaXdrq.png)
 
 <!-- getting started -->
 
