@@ -1,0 +1,20 @@
+#dateOfGame {
+    width: 30%;
+}
+
+#search-box {
+    background-color: #F5F5F5;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.score-card
+{
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+
+.score-card hr {
+    border: solid 2px;
+}
