@@ -1,11 +1,28 @@
+.container {
+    background-color: rgb(236, 234, 234);
+    margin: 1%
+}
+
 #dateOfGame {
     width: 30%;
+}
+
+#myTitle {
+    color: black;
+    text-align: center;
 }
 
 #search-box {
     background-color: #F5F5F5;
     padding: 2%;
     border-radius: 5px;
+    /* text-align: center; */
+}
+
+#btn-search {
+    margin: auto;
+    /* I was trying to get this to be centered but I couldn't figure out how to, I 
+    think the bootstrap is overriding it */
 }
 
 .score-card

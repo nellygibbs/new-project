@@ -12,8 +12,13 @@
 <!-- screenshots -->
 
 
+[Imgur](https://i.imgur.com/PNL2R4T.png)
+
+[Imgur](https://i.imgur.com/pwTUhsm.png)
+
 <!-- getting started -->
 
+Click this link to get started!
 
 <!-- future enhancements -->
 
